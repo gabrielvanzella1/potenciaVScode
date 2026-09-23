@@ -1,0 +1,5 @@
+# Configurações locais do Claude Code (podem conter permissões/segredos da máquina)
+.claude/settings.local.json
+
+# Saídas do Graphify, se for rodado aqui
+graphify-out/
